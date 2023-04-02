@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rgb(216, 209, 209);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2rem;
+    align-items: center;
+}
+.header h1{
+    margin: 0;
+}
+
+.logo{
+    width: 100px;
+    height: 100%;
+}
+
+.ullista{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
