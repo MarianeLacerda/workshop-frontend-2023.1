@@ -9,3 +9,7 @@ Quando selecionamos Inicio, nada é exibido, pois não consegui realizar essa pa
 Quando selecionamos Galeria, é exibido um card com a imagem, nome, gênero, status e tipo.
 
 E quando selecionamos Episodios, é exibida uma lista com  nome do episódio e seu link.
+
+Projeto feito em ReactJS.
+
+API consumida: https://rickandmortyapi.com
