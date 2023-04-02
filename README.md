@@ -1,6 +1,6 @@
 # workshop-frontend-2023.1
 
-Este projeto foi feito para a fábrica de software, e e é baseado em uma API de Rick and Morty.
+Este projeto foi feito para a fábrica de software, e é baseado em uma API de Rick and Morty.
 
 Sua funcionalidade consiste em três componentes: Inicio, Galeria e Episódios.
 
