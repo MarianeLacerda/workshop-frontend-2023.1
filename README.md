@@ -13,3 +13,6 @@ E quando selecionamos Episodios, é exibida uma lista com  nome do episódio e s
 Projeto feito em ReactJS.
 
 API consumida: https://rickandmortyapi.com
+
+<img src= "./src/assets/ezgif-4-1769fa5b9d.gif">
+
