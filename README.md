@@ -14,5 +14,4 @@ Projeto feito em ReactJS.
 
 API consumida: https://rickandmortyapi.com
 
-<img src= "./src/assets/ezgif-4-1769fa5b9d.gif">
-
+https://github.com/MarianeLacerda/workshop-frontend-2023.1/blob/main/assets/to_readme/ezgif-4-1769fa5b9d.gif
